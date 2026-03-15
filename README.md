@@ -1,6 +1,6 @@
-# CppProject
+# GraphExplorer
 
-## Advanced interactive graph tool
+## Advanced interactive graph exploration/sandbox tool
 
 ### Goal
 
