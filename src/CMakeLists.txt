@@ -1,3 +1,3 @@
-add_executable(GraphCLI
+add_executable(GraphExplorer
                ./main.cpp
 )
